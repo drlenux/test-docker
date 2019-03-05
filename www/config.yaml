@@ -1,0 +1,5 @@
+mysql:
+  db: db
+  host: mysql
+  user: root
+  password: qwerty
